@@ -10,4 +10,4 @@ WHERE
 ORDER BY 
     imdb_rating DESC
 LIMIT 3;
-horror_movies.sql to_csv(movies.csv)
+horror_movies.sql.to_csv(movies.csv)
